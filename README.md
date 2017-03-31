@@ -1,10 +1,7 @@
 biochrome
 ==========
 
-Bioinformatics package for Chrome OS
-
-Based on chromebrew-
-Package manager for Chrome OS
+Bioinformatics repository for Chrome OS - based on Chromebrew
 
 Supported Systems
 -----------------
