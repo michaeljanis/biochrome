@@ -1,6 +1,9 @@
-chromebrew
+biochrome
 ==========
 
+Bioinformatics package for Chrome OS
+
+Based on chromebrew-
 Package manager for Chrome OS
 
 Supported Systems
